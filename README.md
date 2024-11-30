@@ -1,10 +1,10 @@
 Nama Anggota kelompok 4
 
-1. Muammar 230907500005
-2. Abdullah Ahmad Iffat 220907501013
-3. Rifaldi Zulkarnain 220907502028
-4. Muh. Syahrul Ramadhan 220907502039
-5. Muh. Xezar Fatwa 220907502044
+1. Miftahul Jannah Usman 230907500006
+2. Syalwa Putri Aditria 230907500007
+3. Nur Annisa Tri Rahma .W 230907501005
+4. Atifa Aulianti Fani 230907501006
+5. Dewi Anjani Meda 230907502009
 
 #PROJECT BAGIAN BACKEND
 
